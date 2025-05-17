@@ -1,0 +1,163 @@
+feedback,sentiment
+"This is the best purchase I've ever made!",positive
+"Totally worth the money, I’m really satisfied!",positive
+"Fantastic experience, I’m coming back!",positive
+"The product exceeded my expectations!",positive
+"I am thrilled with my purchase!",positive
+"Incredible! Will definitely recommend!",positive
+"My skin feels so much better, I love it!",positive
+"I’ve been using it for a week, and it’s amazing!",positive
+"Excellent product, totally works as described!",positive
+"Absolutely perfect! Highly recommend it!",positive
+"I’m really happy with my results!",positive
+"Best decision ever! Totally worth it!",positive
+"The product works wonders, I’m so happy!",positive
+"Very happy with the results! This is amazing!",positive
+"Can’t imagine my life without it now!",positive
+"Great value for the price, really impressive!",positive
+"I’ve been seeing fantastic improvements, love it!",positive
+"I’m really enjoying this, it’s working great!",positive
+"This was exactly what I needed!",positive
+"Amazing quality and fast delivery, I’m pleased!",positive
+"So much better than I expected, I’m impressed!",positive
+"I’m a big fan of this product!",positive
+"This has been a life changer, thank you!",positive
+"It does exactly what it promises, love it!",positive
+"Really happy with how this turned out!",positive
+"Couldn’t be happier with my purchase!",positive
+"It’s made a huge difference for me, very satisfied!",positive
+"Top-notch quality, super impressed!",positive
+"Excellent customer service and product quality!",positive
+"I feel great after using it, definitely recommend!",positive
+"I’ll definitely buy again, really impressed!",positive
+"I’ve been using this for a month and it’s amazing!",positive
+"Highly effective, I’m loving the results!",positive
+"I’ve noticed a huge improvement already!",positive
+"This product has really changed my routine, I love it!",positive
+"So glad I found this product, very effective!",positive
+"I’ve recommended it to all my friends, it’s that good!",positive
+"I’m very satisfied with my purchase, worth every penny!",positive
+"Great experience with this, I’m very pleased!",positive
+"This product has been a total game-changer!",positive
+"Amazing! My expectations were exceeded!",positive
+"I feel like a new person after using this!",positive
+"It’s been great! I’m really enjoying it!",positive
+"Such a great product, I couldn’t ask for more!",positive
+"I’m definitely coming back for more!",positive
+"It works just as described, very happy!",positive
+"Love how it works, highly recommend!",positive
+"Super impressed with this, it’s perfect!",positive
+"Great quality, would buy again without a doubt!",positive
+"This is a must-have product!",positive
+"Very happy with how quickly it worked for me!",positive
+"This product is definitely worth the hype!",positive
+"So pleased with my decision, I’m recommending it!",positive
+"This product has been incredible for my skin!",positive
+"Such an amazing product, highly effective!",positive
+"I couldn’t believe how fast it worked!",positive
+"The product is a lifesaver, I am so grateful!",positive
+"It’s exactly what I was looking for, love it!",positive
+"Absolutely outstanding, I’m beyond impressed!",positive
+"This is definitely a game-changer, I’m sold!",positive
+"My friends and family are loving it too!",positive
+"I am seriously impressed, it’s top-quality!",positive
+"No complaints, I’m so happy with this!",positive
+"This product made my day, really happy!",positive
+"I’m loving it! Will be buying again!",positive
+"This product works as promised, I’m super happy!",positive
+"I am a fan of this, truly impressive!",positive
+"Fantastic quality, very pleased!",positive
+"Very satisfied, works better than expected!",positive
+"Can’t wait to use it more, it’s amazing!",positive
+"This product has really improved my daily routine!",positive
+"I’m definitely going to continue using this!",positive
+"Super impressed with the results!",positive
+"This was an amazing purchase, very happy!",positive
+"Worth every penny, no regrets!",positive
+"I’m really pleased with this, works great!",positive
+"So glad I decided to buy this!",positive
+"Highly effective, will be purchasing again!",positive
+"I’ve been using it for weeks now, and I love it!",positive
+"Couldn’t be happier with the results, truly amazing!",positive
+"Superb quality, I recommend it to everyone!",positive
+"Absolutely love it, it’s fantastic!",positive
+"I’ve tried many products, but this one’s the best!",positive
+"I’m really impressed, exceeded my expectations!",positive
+"It’s perfect, works just as described!",positive
+"I’ve recommended this to everyone I know!",positive
+"I’m seeing amazing results, definitely worth it!",positive
+"Best product I’ve used in a long time!",positive
+"I’m so glad I found this, it’s amazing!",positive
+"Such a great product, I will keep using it!",positive
+"This has become my go-to product, so happy!",positive
+"Really effective, will continue using it!",positive
+"Absolutely love this, can’t live without it!",positive
+"I’m really enjoying this product, works wonders!",positive
+"So much better than I expected, definitely worth it!",positive
+"This product has made such a difference, love it!",positive
+"Impressed beyond belief, truly fantastic!",positive
+"This product works so well, I can’t recommend it enough!",positive
+"Fantastic purchase, I’m very happy!",positive
+"This product doesn’t work as expected, very disappointed.",negative
+"I’m not happy with my purchase, it’s a letdown.",negative
+"This was a waste of money, I won’t buy again.",negative
+"It didn’t do anything for me, I feel cheated.",negative
+"Very bad quality, I regret buying this.",negative
+"Doesn’t live up to the hype, really disappointed.",negative
+"I’m not satisfied at all, it’s useless.",negative
+"Completely ineffective, I won’t recommend it.",negative
+"Waste of time and money, very poor quality.",negative
+"Not worth the money, I’m really dissatisfied.",negative
+"Product broke after a week, not happy at all.",negative
+"Doesn’t do what it says, very frustrating.",negative
+"Not happy with the performance, waste of money.",negative
+"I’m disappointed, doesn’t work as expected.",negative
+"Terrible experience, won’t be buying again.",negative
+"Extremely poor quality, not what I expected.",negative
+"I feel scammed, this is not worth it.",negative
+"Really bad purchase, I won’t buy this again.",negative
+"The product was defective, I’m not happy with it.",negative
+"I had high hopes, but it didn’t work at all.",negative
+"Doesn’t do anything, total waste of money.",negative
+"Very unhappy with the results, won’t buy again.",negative
+"Not satisfied with the quality, very bad.",negative
+"Totally useless, waste of time and money.",negative
+"Poor quality, I wouldn’t recommend it to anyone.",negative
+"This product is terrible, I want a refund.",negative
+"Extremely disappointed, doesn’t do what it promises.",negative
+"I’m really unhappy with the product, it’s terrible.",negative
+"The quality is so bad, I regret buying this.",negative
+"This was a waste of my hard-earned money.",negative
+"Didn’t meet my expectations, very poor.",negative
+"Very disappointed, doesn’t work at all.",negative
+"I wouldn’t buy this again, not worth it.",negative
+"Horrible product, I’m upset with my purchase.",negative
+"Completely ineffective, wouldn’t recommend.",negative
+"I regret buying this, it’s not worth it.",negative
+"Waste of money, doesn’t do anything.",negative
+"Terrible experience, I’m sending this back.",negative
+"I’m extremely dissatisfied, poor quality.",negative
+"Doesn’t work as expected, very unhappy.",negative
+"The product is broken, I’m really frustrated.",negative
+"Horrible purchase, it’s not worth it at all.",negative
+"I feel ripped off, doesn’t do anything.",negative
+"I’m not impressed, this product is terrible.",negative
+"This was a huge disappointment, I want a refund.",negative
+"I wouldn’t buy it again, not impressed at all.",negative
+"Very unhappy with my purchase, doesn’t work.",negative
+"Doesn’t live up to expectations, poor quality.",negative
+"Not worth the price, I feel cheated.",negative
+"Terrible quality, wouldn’t recommend to anyone.",negative
+"The product arrived damaged, very upset.",negative
+"This is a total failure, doesn’t work.",negative
+"Really poor quality, I’m dissatisfied.",negative
+"This product didn’t meet my needs at all.",negative
+"I wish I hadn’t bought this, very disappointing.",negative
+"Doesn’t work like advertised, regret buying it.",negative
+"I’m not happy with this at all, it’s awful.",negative
+"It didn’t help at all, total waste.",negative
+"Bad experience overall, I won’t recommend it.",negative
+"I’m really unhappy with this purchase, waste of money.",negative
+"Doesn’t work as it should, very frustrating.",negative
+"Horrible product, will not buy again.",negative
+"This product is not worth the hype, so bad.",negative
