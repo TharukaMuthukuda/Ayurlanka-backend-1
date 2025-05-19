@@ -161,3 +161,259 @@ feedback,sentiment
 "Doesn’t work as it should, very frustrating.",negative
 "Horrible product, will not buy again.",negative
 "This product is not worth the hype, so bad.",negative
+"Terrible experience overall.",negative
+"Doesn’t work at all.",negative
+"Very disappointing product.",negative
+"Complete waste of money.",negative
+"Regret buying this.",negative
+"Awful quality.",negative
+"Not worth the price.",negative
+"Stopped working in a week.",negative
+"Wouldn’t recommend to anyone.",negative
+"Extremely poor performance.",negative
+"Misleading description.",negative
+"Fails to deliver results.",negative
+"Cheaply made and useless.",negative
+"Expected better, got trash.",negative
+"Unusable out of the box.",negative
+"Low quality and unreliable.",negative
+"Customer support is nonexistent.",negative
+"Broke after first use.",negative
+"Did not meet expectations.",negative
+"Just plain bad.",negative
+"Worst product I’ve bought.",negative
+"Not what I paid for.",negative
+"Feels like a scam.",negative
+"Don’t waste your time.",negative
+"One of the worst I’ve tried.",negative
+"Functionality is terrible.",negative
+"Useless and frustrating.",negative
+"Very poor craftsmanship.",negative
+"Ridiculously overpriced for what it is.",negative
+"Instructions were unclear and confusing.",negative
+"Does the opposite of what it claims.",negative
+"Fails to do even the basics.",negative
+"Too many bugs to function.",negative
+"Design flaws everywhere.",negative
+"Support team ignored my messages.",negative
+"Shipping was slow and product was damaged.",negative
+"Hard to use and not intuitive.",negative
+"Battery life is a joke.",negative
+"Overheats quickly.",negative
+"Looks good, works terribly.",negative
+"Not compatible as advertised.",negative
+"Material feels cheap and brittle.",negative
+"Save your money.",negative
+"Packaging was damaged and product faulty.",negative
+"It’s broken and they won’t replace it.",negative
+"Never buying from this brand again.",negative
+"Feels unfinished and rushed.",negative
+"Stopped working randomly.",negative
+"Too complicated to set up.",negative
+"Crashes every time I use it.",negative
+"Doesn’t hold a charge.",negative
+"Really good quality",positive
+"Such a good product overall",positive
+"Good performance and reliability",positive
+"Feels good in the hand",positive
+"Very good for the price",positive
+"Good value for money",positive
+"Surprisingly good experience",positive
+"Works as good as advertised",positive
+"Good features and simple to use",positive
+"Delivers good results",positive
+"Good looking and functional",positive
+"Good customer service",positive
+"Good choice for anyone",positive
+"Good fit for my needs",positive
+"Consistently good output",positive
+"Made a good impression",positive
+"Really good support team",positive
+"Looks good and feels premium",positive
+"Good attention to detail",positive
+"Good size and shape",positive
+"Good app integration",positive
+"Build quality is good",positive
+"Good packaging and fast delivery",positive
+"Works good with no issues",positive
+"Good experience from start to finish",positive
+"Good material quality",positive
+"Found a good deal on this",positive
+"Runs good and smooth",positive
+"Good handling and response",positive
+"Good and intuitive interface",positive
+"Good upgrade from previous version",positive
+"Provides good value",positive
+"Feels good to use",positive
+"Good performance even under stress",positive
+"Good connectivity options",positive
+"Good for beginners and pros",positive
+"Sound quality is really good",positive
+"Good texture and grip",positive
+"Maintains good speed",positive
+"Good lighting and visuals",positive
+"Good battery life",positive
+"Good clarity and sharpness",positive
+"Good balance between price and features",positive
+"Good craftsmanship overall",positive
+"Product smells good too",positive
+"Very good attention to packaging",positive
+"Feels like a good investment",positive
+"Good touchscreen response",positive
+"Delivered in good condition",positive
+"Good UI design",positive
+"No value for money.",negative
+"Cheap components, breaks easily.",negative
+"Disgustingly poor build.",negative
+"Frustrating to use daily.",negative
+"Nothing but issues.",negative
+"The product never arrived.",negative
+"Incorrect item sent.",negative
+"Too flimsy to be useful.",negative
+"Leaks and doesn’t seal.",negative
+"Not waterproof as stated.",negative
+"It’s just garbage.",negative
+"App is glitchy and unstable.",negative
+"Parts were missing.",negative
+"Looks used and dirty.",negative
+"Returned immediately.",negative
+"Feels like it’ll break any second.",negative
+"Doesn’t do what it says.",negative
+"Very cheaply constructed.",negative
+"Only lasted a few days.",negative
+"Not user-friendly.",negative
+"The worst purchase ever.",negative
+"Refuses to turn on.",negative
+"Sound quality is horrible.",negative
+"Smells like chemicals.",negative
+"Color is off.",negative
+"Wrong size entirely.",negative
+"The fit is terrible.",negative
+"Breaks with minimal use.",negative
+"Didn’t work from day one.",negative
+"Missing features described online.",negative
+"Horrible interface.",negative
+"UI/UX is unbearable.",negative
+"Can’t even contact support.",negative
+"Annoyingly slow.",negative
+"Too loud for indoor use.",negative
+"Cracked upon delivery.",negative
+"Battery died instantly.",negative
+"Painfully difficult to return.",negative
+"No refund issued.",negative
+"Warranty is a joke.",negative
+"Nothing like the photos.",negative
+"Couldn’t get it to function properly.",negative
+"Arrived late and broken.",negative
+"Entirely defective.",negative
+"Definitely wouldn’t buy again.",negative
+"Such a letdown.",negative
+"Not what I expected at all.",negative
+"Glitchy and unreliable.",negative
+"Did more harm than good.",negative
+"Couldn’t be more disappointed.",negative
+"Totally dysfunctional.",negative
+"An absolute fail.",negative
+"Needs a complete redesign.",negative
+"Excellent quality and fast delivery",positive
+"Terrible customer service",negative
+"Just okay, nothing special",neutral
+"Love how it works, very reliable",positive
+"Did not meet expectations",negative
+"Decent product for the price",neutral
+"Absolutely fantastic!",positive
+"Broke after two uses",negative
+"Average performance",neutral
+"Highly recommend this to everyone",positive
+"Complete waste of money",negative
+"It’s alright, not bad",neutral
+"Great value for the cost",positive
+"Doesn’t function properly",negative
+"Not good, not bad",neutral
+"Exceeded my expectations",positive
+"Very poor craftsmanship",negative
+"Fairly standard",neutral
+"Works like a charm!",positive
+"Extremely disappointing",negative
+"Service was acceptable",neutral
+"Really satisfied with my purchase",positive
+"Not worth the hype",negative
+"Mediocre at best",neutral
+"Would definitely buy again",positive
+"Fails to deliver",negative
+"Functional but bland",neutral
+"Quality is top-notch",positive
+"Battery life is terrible",negative
+"Met my basic needs",neutral
+"Super happy with it",positive
+"Doesn't do what it claims",negative
+"Pretty average",neutral
+"Brilliant design and execution",positive
+"Completely useless",negative
+"Nothing special",neutral
+"Five stars from me!",positive
+"Stopped working quickly",negative
+"Neither good nor bad",neutral
+"Very effective and easy to use",positive
+"Not satisfied at all",negative
+"It’s fine, gets the job done",neutral
+"Exactly what I needed!",positive
+"Very buggy and frustrating",negative
+"Standard experience",neutral
+"Will buy more for sure",positive
+"Regret this purchase",negative
+"Not impressed but not upset",neutral
+"Truly amazing performance",positive
+"Unreliable and cheaply made",negative
+"Mildly helpful",neutral
+"Better than expected!",positive
+"App crashes constantly",negative
+"Usable but forgettable",neutral
+"Smooth and seamless",positive
+"Doesn’t live up to the description",negative
+"Neutral feelings",neutral
+"Top quality product!",positive
+"Build quality is awful",negative
+"Gets the job done",neutral
+"Impressed with the features",positive
+"Very slow and clunky",negative
+"Just okay for casual use",neutral
+"Perfect fit and function",positive
+"Totally defective unit",negative
+"It’s okay for the price",neutral
+"Fast, efficient, and easy",positive
+"Shipping was a nightmare",negative
+"Decent for what it is",neutral
+"Extremely reliable and intuitive",positive
+"Broke on first day",negative
+"No strong opinion",neutral
+"Love it!",positive
+"Would not recommend",negative
+"Fair enough",neutral
+"Outstanding support",positive
+"Poor user experience",negative
+"Middle-of-the-road product",neutral
+"Works perfectly",positive
+"Cheap and unreliable",negative
+"Meets the minimum",neutral
+"Exactly as described",positive
+"Waste of time and money",negative
+"Not too bad",neutral
+"Delivers great results",positive
+"Doesn't work as intended",negative
+"Fair product",neutral
+"Excellent customer care",positive
+"Flawed design",negative
+"It’s just average",neutral
+"Truly worth every cent",positive
+"Returns process was horrible",negative
+"Satisfactory",neutral
+"Great packaging and quality",positive
+"Completely dissatisfied",negative
+"Plain and functional",neutral
+"Superb performance",positive
+"Too many issues",negative
+"Simple and effective",neutral
+"Top-notch all around",positive
+"Glitchy and slow",negative
+"Neither here nor there",neutral
