@@ -38,7 +38,7 @@ print("💣 Model & Vectorizer loaded. Locked and loaded homie.")
 
 # Firebase Admin SDK
 
-cred_path = os.environ.get('FIREBASE_ADMIN_SDK_KEY_PATH', 'ayurlanka-2bd6e-firebase-adminsdk-fbsvc-069ac60af4.json')
+cred_path = os.environ.get('FIREBASE_ADMIN_SDK_KEY_PATH', 'ayurlanka-2bd6e-firebase-adminsdk-fbsvc-e897ac6ff3.json')
 
 try:
     cred = credentials.Certificate(cred_path)
@@ -161,7 +161,7 @@ practitioners = [
     {"id": 2, "name": "Dr. Kavindi", "contact": "0767654321"}
 ]
 class Practitioner(BaseModel):
-    id: int | None = None  # 🧠 Make ID optional so we assign it manually
+    id: Optional[int] = None  # 🧠 Make ID optional so we assign it manually
     name: str
     contact: str
     specialities: str
